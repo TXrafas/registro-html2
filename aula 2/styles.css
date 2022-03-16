@@ -1,0 +1,200 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: #3F3D56;
+    font-weight:400;
+    justify-content: center;
+    font-family: 'roboto' sans-serif
+    
+}*
+body {
+display: flex;
+align-items: center;
+justify-content: center;
+flex-direction: column;
+}
+
+.title {
+    text-align: center;
+    font-weight: 700;
+    line-height: 43.36px;
+    size: 37px;
+ width: 302px;
+ height: 43px;
+ margin-top: 68px;
+ margin-left: 569px;
+ margin-right: 569px;
+ 
+
+} 
+
+
+.bot {
+    text-align: center;
+    height: 24px;
+    margin-top: 22px;
+    margin-left: 522px;
+    margin-right: 818px;
+    
+
+
+}
+
+.input-1{
+    text-align: center;
+
+
+    width: 396px;
+    height: 47px;
+    margin-top: 8px;
+    margin-left: 522px;
+    margin-right: 522px;
+    size: 14px;
+    line-height: 24px;
+}
+
+
+.date-1 {
+    text-align: center;
+    margin-top: 24px;
+    margin-left: 522px;
+    margin-right: 791px;
+   
+
+}
+
+
+.input-2{
+    text-align: center;
+width: 170px;
+height: 47px;
+margin-top: 9px;
+margin-left: 522px;
+margin-right: 748px;
+
+}
+
+.país-1{
+margin-top: 100px;
+text-align: center;
+width: 34px;
+height: 15px;
+margin-left: 522px;
+margin-right: 830px;
+size: 14px;
+line-height: 24px;
+
+
+}
+
+
+.select{
+
+    width: 208px;
+    height: 47px;
+    text-align: center;
+    margin-left: 522px;
+    margin-top: 10px;
+    margin-right: 830px;
+}
+
+.genero-1{
+
+width: 49px;
+height: 24px;
+text-align: center;
+margin-left: 522px;
+margin-top: 3px;
+margin-right: 869px;
+
+
+
+}
+
+.input-3{
+  text-align: center;
+    margin-left: 400px;
+    margin-top: 9px;
+    margin-right: 532px;
+
+}
+
+.email-1{
+    text-align: center;
+    margin-top: 23px;
+    margin-left: 522px;
+    margin-right: 879px;
+    size: 14px;
+    line-height: 24px;
+}
+
+.input-4{
+
+width: 396px;    
+height: 46px;
+}
+
+.password{
+
+ text-align: center;   
+ margin-top: 22px;
+ margin-left: 522px;
+ margin-right: 879px;
+ size: 14px;
+ line-height: 24px;
+}
+
+
+.input-5{
+
+ width: 396px;   
+ height: 46px;
+}
+
+.password-2{
+ text-align: center;
+ margin-top: 22px;
+ margin-left: 522px;
+ margin-right: 792px;
+ size: 14px;
+ line-height: 24px;
+
+}
+
+.input-6{
+
+width: 396px;    
+height: 46px;
+}
+
+.eula{
+text-align: center;
+ margin-top: 28px;   
+ margin-left: 522px;
+ margin-right: 522px;
+ size: 14px;
+ line-height: 18.2px;
+}
+
+
+.input-7{
+
+    width: 396px;
+    height: 46px;
+    text-align: center;
+    margin-top: 28px;
+    color: rgb(255, 0, 0);
+
+
+}
+
+
+.finish{
+
+   margin-top: 28px; 
+   margin-left: 572px;
+   margin-right: 571px;
+   height: 174px;
+}
+
+
